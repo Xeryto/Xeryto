@@ -1,20 +1,42 @@
-👋 Hi there! I'm Daniel Igoshin (a.k.a. Xeryto)
+# 👋 Hi there! I'm Daniil Igoshin (aka Xeryto)
 
-I'm a Computer Science student at Columbia University with a passion for developing software that makes a difference. My interests span across backend development, machine learning, and educational technology. Here’s a glimpse into what I’ve been working on:
+🎓 CS @ Columbia University (Class of 2027)  
+🧠 Backend Dev | 🤖 ML Explorer | 🚀 Builder of impactful tech  
 
-Backend Development: As a Backend Software Engineer Intern at The Bulletin, I enhanced a Flask API with automated email triggers and event filtering, leading to a 10.5% increase in user acquisition within the first month.​
-Machine Learning: During my internship at Resola, I developed and optimized a machine learning model that automated patient feedback generation, reducing manual processing time by 40% across 50+ patient cases.​
-Educational Projects: I’ve engineered projects like Quillin’, integrating AI-driven features to convert handwritten notes to digital text with 95% accuracy, and PricelessEdu, a custom ASP.NET Learning Management System that achieved over 800 monthly user sign-ups.​
-🔧 Technologies & Languages:
+---
 
-Python, C#, JavaScript, Java, C++, C, Swift​
-Django, Flask, FastAPI, ASP.NET, Entity Framework, Node.js​
-AWS, Android SDK, Bootstrap​
-🌱 I'm currently learning:
+## 🛠️ What I Do
+I'm a passionate software engineer with experience in backend systems, machine learning, and ed-tech platforms. I love building tools that solve real problems and scale to help people.
 
-Advanced machine learning techniques​
-Scalable system design​
-💬 Let's connect!
+- 🔧 **Backend Engineering Intern @ The Bulletin**  
+  ➤ Enhanced Flask API with email automation & event filtering → 📈 +10.5% user acquisition  
+  ➤ Refactored legacy backend for modularity and performance  
 
-LinkedIn: linkedin.com/in/digoshin
-Email: d.igoshin@columbia.edu
+- 🧠 **ML Engineer Intern @ Resola**  
+  ➤ Built a feedback generation model (NumPy, Pandas, Scikit-Learn) → ⏱️ 40% reduction in manual processing  
+  ➤ Collected & analyzed sensor data from workout sessions for predictive accuracy  
+
+- ✍️ **Projects**  
+  - 🧮 **Quillin’** – AI + OCR note explainer (FastAPI, Google Vision, MathPix, LLaMA)  
+    ➤ Converted handwritten notes to LaTeX markdown with 95% accuracy  
+  - 📚 **PricelessEdu** – Full-stack LMS (ASP.NET + MongoDB)  
+    ➤ 800+ monthly signups, 99.9% uptime, scalable app review system  
+
+---
+
+## 🧠 Tech I Work With
+
+**Languages**: Python, C#, JavaScript, Java, C++, Swift, SQL  
+**Frameworks/Tools**: Flask, FastAPI, ASP.NET, Django, Entity Framework, Scikit-Learn, NumPy, Pandas, AWS, MongoDB, Git  
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://linkedin.com/in/digoshin)  
+- 📬 [Email](mailto:d.igoshin@columbia.edu)  
+- 💻 [GitHub](https://github.com/Xeryto)
+
+---
+
+> “Code is a tool, but curiosity is the engine.”  
