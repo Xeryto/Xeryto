@@ -8,7 +8,7 @@ Backend/Fullstack Dev | ML Explorer | Builder of impactful tech
 ## What I Do
 I'm a passionate software engineer with experience in backend systems, databases, machine learning, and ed-tech platforms. I love building tools that solve real problems and scale to help people.
 
-- **Backend Engineering Intern @ The Bulletin**  
+- **Software Engineering Intern @ Intuit Mailchimp**  
   ➤ Automated CI/CD Quality Gate failure triage with a Dockerized Go CLI tool → 61% MTTD reduction  
   ➤ Carried out a critical tool migration project by recreating & reworking the database and the DAL → 25-45% average response time reduction
 
