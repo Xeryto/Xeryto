@@ -1,0 +1,149 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.98",
+  "elapsed_seconds"    : 2.8775749206543,
+  "n_files"            : 1965,
+  "n_lines"            : 508851,
+  "files_per_second"   : 682.866668699351,
+  "lines_per_second"   : 176833.275946226,
+  "report_file"        : "../output/cloc-output.json"},
+"Python" :{
+  "nFiles": 632,
+  "blank": 27022,
+  "comment": 35309,
+  "code": 147753},
+"JavaScript" :{
+  "nFiles": 193,
+  "blank": 19396,
+  "comment": 14310,
+  "code": 76270},
+"TypeScript" :{
+  "nFiles": 375,
+  "blank": 5120,
+  "comment": 2203,
+  "code": 53807},
+"Unity-Prefab" :{
+  "nFiles": 87,
+  "blank": 2,
+  "comment": 0,
+  "code": 45176},
+"C#" :{
+  "nFiles": 324,
+  "blank": 5396,
+  "comment": 901,
+  "code": 38025},
+"Razor" :{
+  "nFiles": 130,
+  "blank": 956,
+  "comment": 95,
+  "code": 10157},
+"Swift" :{
+  "nFiles": 81,
+  "blank": 981,
+  "comment": 774,
+  "code": 8789},
+"PHP" :{
+  "nFiles": 20,
+  "blank": 304,
+  "comment": 0,
+  "code": 3008},
+"HLSL" :{
+  "nFiles": 18,
+  "blank": 639,
+  "comment": 82,
+  "code": 2388},
+"C# Generated" :{
+  "nFiles": 9,
+  "blank": 65,
+  "comment": 97,
+  "code": 2258},
+"Java" :{
+  "nFiles": 25,
+  "blank": 183,
+  "comment": 26,
+  "code": 1977},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 44,
+  "code": 1758},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 523,
+  "code": 592},
+"JSX" :{
+  "nFiles": 11,
+  "blank": 33,
+  "comment": 8,
+  "code": 463},
+"MSBuild script" :{
+  "nFiles": 11,
+  "blank": 42,
+  "comment": 0,
+  "code": 324},
+"INI" :{
+  "nFiles": 3,
+  "blank": 48,
+  "comment": 0,
+  "code": 193},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 25,
+  "code": 162},
+"Visual Studio Solution" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 5,
+  "code": 151},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 19,
+  "comment": 6,
+  "code": 112},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 232,
+  "code": 104},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 38,
+  "comment": 3,
+  "code": 98},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 29,
+  "code": 49},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 10,
+  "code": 43},
+"make" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 37},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 60433,
+  "comment": 54700,
+  "code": 393718,
+  "nFiles": 1965} }
