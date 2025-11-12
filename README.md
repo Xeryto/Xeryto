@@ -35,6 +35,11 @@ I'm a passionate software engineer with experience in backend systems, databases
 
 ---
 
+<!-- LANGUAGES BREAKDOWN START -->
+<!-- LANGUAGES BREAKDOWN END -->
+
+---
+
 ## Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/digoshin)  
