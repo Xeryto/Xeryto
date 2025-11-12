@@ -43,8 +43,9 @@ Python       --> 140,321 lines
 JavaScript   --> 66,462 lines
 TypeScript   --> 35,778 lines
 C#           --> 11,694 lines
+PHP          --> 3,008 lines
 Java         --> 1,754 lines
-Others       --> 12,719 lines
+Others       --> 9,711 lines
 
 [ TOTAL LINES OF CODE: 268,728 ]
 ```
