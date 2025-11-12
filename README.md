@@ -39,14 +39,14 @@ I'm a passionate software engineer with experience in backend systems, databases
 ```
 [ LANGUAGES BREAKDOWN ]
 
-Python       --> 147,753 lines
-JavaScript   --> 76,270 lines
-TypeScript   --> 53,807 lines
-C#           --> 38,025 lines
-Java         --> 1,977 lines
-Others       --> 75,886 lines
+Python       --> 140,321 lines
+JavaScript   --> 66,462 lines
+TypeScript   --> 35,778 lines
+C#           --> 11,694 lines
+Java         --> 1,754 lines
+Others       --> 12,719 lines
 
-[ TOTAL LINES OF CODE: 393,718 ]
+[ TOTAL LINES OF CODE: 268,728 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 
