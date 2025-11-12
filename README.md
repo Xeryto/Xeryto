@@ -1,12 +1,12 @@
 # Hi there! I'm Daniil Igoshin (aka Xeryto)
 
 CS @ Columbia University (Class of 2027)  
-Backend Dev | ML Explorer | Builder of impactful tech  
+Backend/Fullstack Dev | ML Explorer | Builder of impactful tech  
 
 ---
 
 ## What I Do
-I'm a passionate software engineer with experience in backend systems, machine learning, and ed-tech platforms. I love building tools that solve real problems and scale to help people.
+I'm a passionate software engineer with experience in backend systems, databases, machine learning, and ed-tech platforms. I love building tools that solve real problems and scale to help people.
 
 - **Backend Engineering Intern @ The Bulletin**  
   ➤ Enhanced Flask API with email automation & event filtering → 📈 +10.5% user acquisition  
