@@ -1,4 +1,4 @@
-# Hi there! I'm Daniil Igoshin (aka Xeryto)
+# Hi there! I'm Daniel Igoshin (aka Xeryto)
 
 CS @ Columbia University (Class of 2027)  
 Backend/Fullstack Dev | ML Explorer | Builder of impactful tech  
